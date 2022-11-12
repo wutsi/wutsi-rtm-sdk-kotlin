@@ -6,7 +6,7 @@
 
   <artifactId>wutsi-rtm-sdk-kotlin</artifactId>
   <groupId>com.wutsi.platform.rtm</groupId>
-  <version>0.0.6</version>
+  <version>0.0.7-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>wutsi-rtm-sdk-kotlin</name>
@@ -54,7 +54,7 @@
 
   <scm>
     <developerConnection>scm:git:https://github.com/wutsi/wutsi-rtm-sdk-kotlin.git</developerConnection>
-    <tag>wutsi-rtm-sdk-kotlin-0.0.6</tag>
+    <tag>HEAD</tag>
   </scm>
   <distributionManagement>
     <repository>
